@@ -37,6 +37,7 @@
 
  ## OUTPUT
  
- 
+ ![EXP 1 2 KAVIYA_page-0001](https://github.com/user-attachments/assets/947d2e9b-77e5-48a2-8ffb-4321740a0b51)
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
